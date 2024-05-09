@@ -1,6 +1,6 @@
 # temperature-controller
 
-This repository has been created for the project of the course "Microcontrôleur" with <a href="https://people.epfl.ch/alexandre.schmid">Prof. Alexandre Schmid</a> in BA4. The purpose of the project build a system using the microcontroller AVR STK300 with a temperature sensor 1-wire and with at least 2 other peripherals. The chosen peripherals in this project are the servo motor Futaba S3003, the LCD display Hitachi44780U 2x16 and a buzzer.
+This repository has been created for the project of the course "Microcontrôleur" with <a href="https://people.epfl.ch/alexandre.schmid">Prof. Alexandre Schmid</a> in BA4. The purpose of the project is to build a system using the microcontroller AVR STK300 with a temperature sensor 1-wire and with at least 2 other peripherals. The chosen peripherals in this project are the servo motor Futaba S3003, the LCD display Hitachi44780U 2x16 and a buzzer.
 
 ## System description 
 
