@@ -10,4 +10,4 @@ The user can select a minimum temperature, which corresponds to when the blades 
 
 ## Presentation video
 
-The presentation of this project can be found on this <a href="https://youtu.be/p2kzhmMfhIk">link</a>.
+The presentation of this project can be found <a href="https://youtu.be/p2kzhmMfhIk">here</a>.
